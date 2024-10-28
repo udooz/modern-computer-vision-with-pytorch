@@ -4,3 +4,5 @@ streamlit
 datasets
 transformers
 torch_summary
+jupyter_client < 8
+pyzmq < 25
