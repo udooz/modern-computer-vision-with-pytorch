@@ -1,6 +1,6 @@
 numpy
 pandas
-jupyter
 streamlit
 datasets
 transformers
+torch_summary
